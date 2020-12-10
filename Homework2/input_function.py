@@ -5,4 +5,3 @@ def input_function():
         return x
 
     return 0
-
