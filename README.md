@@ -1,2 +1,0 @@
-# GAD
-Google Workshop Repository
