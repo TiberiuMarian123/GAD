@@ -1,7 +1,0 @@
-# File extensions to be ignored: #
-*.xml
-*.pdf
-.idea/
-__pycache__/
-venv/
-Ignore_Model/
